@@ -10,6 +10,9 @@ PorfolioGrid is a responsive portfolio website sample.
 
 ## Screenshot of the page
 ![](img/screencapture-portfoliogrid-project.png)
+![](img/screencapture-portfoliogrid-resume-project.png)
+![](img/screencapture-portfoliogrid-work-project.png)
+![](img/screencapture-portfoliogrid-contact-project.png)
 
 ## External Resources Used
 This site was built using:
